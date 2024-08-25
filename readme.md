@@ -10,4 +10,12 @@
 
 [link]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
+<<<<<<< HEAD
 * This is a cherry picking test.
+=======
+* This is a cherry picking test.
+
+* Linux >>>>>>>> Windows. Let me cook.
+
+* PENJAMIN CITY
+>>>>>>> readme-mejorado
